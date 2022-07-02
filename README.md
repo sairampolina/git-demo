@@ -1,0 +1,2 @@
+#Mhead
+  file has inputs
